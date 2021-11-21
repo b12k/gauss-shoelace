@@ -1,0 +1,24 @@
+{
+  "name": "gauss-shoelace",
+  "version": "0.0.0",
+  "description": "Gauss Shoelace algorythm for computation of poligon surface area",
+  "main": "./gauss-shoelace.js",
+  "types": "./gauss-shoelace.d.ts",
+  "scripts": {
+    "test": "tsc gauss-shoelace.test.ts && node gauss-shoelace.test.js",
+    "build": "tsc gauss-shoelace.ts --declaration true --module UMD --moduleResolution node --target es5"
+  },
+  "keywords": [
+    "gauss",
+    "shoelace",
+    "algorythm",
+    "polygon",
+    "surface",
+    "area"
+  ],
+  "author": "Bogdan Kolesnyk",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}

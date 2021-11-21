@@ -1,0 +1,10 @@
+.idea
+.vscode
+.github
+.editorconfig
+
+tsconfig.json
+
+gauss-shoelace.ts
+gauss-shoelace.test.ts
+gauss-shouelace.test.js
