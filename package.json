@@ -1,6 +1,6 @@
 {
   "name": "gauss-shoelace",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Gauss Shoelace algorythm for computation of poligon surface area",
   "main": "./gauss-shoelace.js",
   "types": "./gauss-shoelace.d.ts",
@@ -20,5 +20,13 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/b12k/gauss-shoelace.git"
+  },
+  "homepage": "https://github.com/b12k/gauss-shoelace",
+  "bugs": {
+    "url": "https://github.com/b12k/gauss-shoelace/issues"
   }
 }
