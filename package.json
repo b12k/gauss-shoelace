@@ -1,6 +1,6 @@
 {
   "name": "gauss-shoelace",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Gauss Shoelace algorythm for computation of poligon surface area",
   "main": "./gauss-shoelace.js",
   "types": "./gauss-shoelace.d.ts",
