@@ -4,5 +4,6 @@
 dist
 node_modules
 
+gauss-shoelace.js
 gauss-shoelace.d.ts
 gauss-shoelace.test.js
